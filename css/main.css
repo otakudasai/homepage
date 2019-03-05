@@ -325,6 +325,7 @@ input.input100 {
 .bg3 {background-color: #3b5998;}
 .bg4 {background-color: #1da1f2;}
 .bg5 {background-color: #cd201f;}
+.bg6 {background-color: #e1306c;}
 
 .bg-img1 {
   background-position: center;
@@ -417,7 +418,7 @@ input.input100 {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.6);
 }
 
 .overlay1::after {
